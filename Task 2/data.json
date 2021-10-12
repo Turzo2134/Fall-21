@@ -1,0 +1,113 @@
+[
+    {
+        "firstName": "abc",
+        "lastName": "xyz",
+        "age": "23",
+        "designation": "junior programmer",
+        "language": "C++",
+        "email": "abc@gmail.com",
+        "password ": "1234",
+        "image": "files\/image1.jpg"
+    },
+
+    {
+        "firstname": "vsvfff",
+        "lastname": "vvfsfsd",
+        "email": "dvsd@gmail.com",
+        "age": "12",
+        "pwd": "dasd12234sdd",
+        "languague": "Java",
+        "myfile": "shopping-bag-full-fresh-fruits-vegetables-with-assorted-ingredients.jpg",
+        "designation": "Junior Programmer"
+    },
+    {
+        "firstname": "Turzo ",
+        "lastname": "Roy",
+        "email": "trturzo.tr1027@gmail.com",
+        "age": "22",
+        "pwd": "dasd12234sdd",
+        "languague": "PHP",
+        "myfile": "tennis-game-tennis-balls-rackets-background.jpg",
+        "designation": "Junior Programmer"
+    },
+    {
+        "firstname": "Turzo ",
+        "lastname": "Roy",
+        "email": "trturzo.tr1027@gmail.com",
+        "age": "22",
+        "pwd": "dasd12234sdd",
+        "languague": "PHP",
+        "myfile": "tennis-game-tennis-balls-rackets-background.jpg",
+        "designation": "Junior Programmer"
+    },
+    {
+        "firstname": "Turzo ",
+        "lastname": "Roy",
+        "email": "trturzo.tr1027@gmail.com",
+        "age": "22",
+        "pwd": "dasd12234sdd",
+        "languague": "PHP",
+        "myfile": "tennis-game-tennis-balls-rackets-background.jpg",
+        "designation": "Junior Programmer"
+    },
+    {
+        "firstname": "Turzo ",
+        "lastname": "Roy",
+        "email": "trturzo.tr1027@gmail.com",
+        "age": "22",
+        "pwd": "dasd12234sdd",
+        "languague": "PHP",
+        "myfile": "tennis-game-tennis-balls-rackets-background.jpg",
+        "designation": "Junior Programmer"
+    },
+    {
+        "firstname": "Turzo ",
+        "lastname": "Roy",
+        "email": "trturzo.tr1027@gmail.com",
+        "age": "22",
+        "pwd": "dasd12234sdd",
+        "languague": "PHP",
+        "myfile": "eco-paper-utensils-table-closeup.jpg",
+        "designation": "Junior Programmer"
+    },
+    {
+        "firstname": "Turzo ",
+        "lastname": "Roy",
+        "email": "trturzo.tr1027@gmail.com",
+        "age": "22",
+        "pwd": "dasd12234sdd",
+        "languague": "PHP",
+        "myfile": "eco-paper-utensils-table-closeup.jpg",
+        "designation": "Junior Programmer"
+    },
+    {
+        "firstname": "turzo",
+        "lastname": "royyy",
+        "email": "trz@gmail.com",
+        "age": "22",
+        "pwd": "ddddffffggss",
+        "languague": "PHP",
+        "myfile": "eco-paper-utensils-table-closeup.jpg",
+        "designation": "Junior Programmer"
+    },
+    {
+        "firstname": null,
+        "lastname": null,
+        "email": null,
+        "age": null,
+        "pwd": null,
+        "languague": null,
+        "myfile": "eco-paper-utensils-table-closeup.jpg",
+        "designation": null
+    },
+    {
+        "firstname": "erferfrf",
+        "lastname": "edwewefe",
+        "email": "dewdfe@gmail.com",
+        "age": "22",
+        "pwd": "jdewhdjkwehdjke",
+        "languague": "Java",
+        "myfile": "beautiful-shot-modern-house-kitchen (1).jpg",
+        "designation": "Junior Programmer"
+    }
+]
